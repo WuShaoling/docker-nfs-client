@@ -1,5 +1,4 @@
 FROM       gliderlabs/alpine:latest
-MAINTAINER Quantverse <info@quantverse.com>
 
 # USAGE
 # $ docker build -t nfs-client .
